@@ -2,8 +2,9 @@
 
 Portfolio template repository for COMP6200: Data Science at Macquarie University
 
-Student Name: Piyakorn Munegan (Mona)
-Student ID: 46318461
+| Student Name | Student ID |
+| ---: | ---: |
+| Piyakorn Munegan (Mona) | 46318461 |
 
 Portfolio projects:
   1. Analysis of cycling data - Explore relationship between Strava, GoldenCheetah and weather, and plot time series information.
