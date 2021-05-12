@@ -11,7 +11,6 @@ Portfolio projects:
   3. Building predictive models to classify the books into one of the five target genres.
   
   
-  ![Github logo](data\analysis-1.png)
-  
+  ![Github logo](data/analysis-1.png)
   
   
