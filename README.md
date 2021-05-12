@@ -22,7 +22,7 @@ __Portfolio projects:__
 * Technologies
     * Python
     
-  ![Strava](data/strava.png)
+
    
 ## :bicyclist: Portfolio 1
 
@@ -34,7 +34,7 @@ The second dataset comes from an application called [GoldenCheetah](https://www.
 This portfolio aims to analyse the relationship between Strava, GoldenCheetah and also [Weather](http://www.bom.gov.au/) data from a relevant source. Additional, analysing Time-series data to explore the trend and pattern of the relevant factors over the period.
 
 
-  ![House](data/low-energy-house.jpg)
+
 
 ## :house_with_garden: Portfolio 2
 
@@ -45,7 +45,7 @@ The goal of the second portfolio is to reproduce some work on[Data driven predic
 This research aims to predict the energy usage of a house based on Internet of Things (IoT) measurements of temperature and humidity and weather observations. First, we need to explore the data distribution and analysis the relationship among several observations. Second, The linear regression model was performed and the model performances have been reported. Lastly, the Recursive Feature Elimination with Cross-Validation was used to find the optimal number of predictors. 
 
 
-  ![Book](data/text.png)
+
   
 ## :books: Portfolio 3
 
