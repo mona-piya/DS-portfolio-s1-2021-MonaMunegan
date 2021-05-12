@@ -24,7 +24,7 @@ __Portfolio projects:__
     
   ![Strava](data/strava.png)
    
-### :bicyclist:Portfolio 1
+## :bicyclist: Portfolio 1
 
 <blockquote> Introdution: </blockquote>
 
@@ -36,9 +36,9 @@ This portfolio aims to analyse the relationship between Strava, GoldenCheetah an
 
   ![House](data/low-energy-house.jpg)
 
-<blockquote>Portfolio 2:</blockquote>
+## :house_with_garden: Portfolio 2
 
-* Introdution
+<blockquote> Introdution: </blockquote>
 
 The goal of the second portfolio is to reproduce some work on[Data driven prediction models of energy use of appliances in a low-energy house.](http://dx.doi.org/10.1016/j.enbuild.2017.01.083) Luis M. Candanedo, Véronique Feldheim, Dominique Deramaix. Energy and Buildings, Volume 140, 1 April 2017, Pages 81-97, ISSN 0378-7788. 
 
@@ -46,9 +46,10 @@ This research aims to predict the energy usage of a house based on Internet of T
 
 
   ![Book](data/text.png)
-<blockquote>Portfolio 3:</blockquote>
+  
+## :books: Portfolio 3
 
-* Introdution
+<blockquote> Introdution: </blockquote>
 
 The goal of this portfolio is to use a set of book summaries from the [CMU Book Summaries Corpus](http://www.cs.cmu.edu/~dbamman/booksummaries.html) and build predictive models to classify the books into one of the five target genres.
 
