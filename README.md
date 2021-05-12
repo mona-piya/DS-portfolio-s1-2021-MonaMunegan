@@ -14,6 +14,18 @@ __Portfolio projects:__
   
   ![Analysis](data/analysis-1.png)
   
+
+* Methods Used
+    * Data Visualization
+    * Machine Learning
+    * Predictive Modeling
+    * etc
+ 
+* Technologies
+    * Python
+    
+  ![Analysis](data/strava.png)
+   
 <blockquote>Portfolio 1:</blockquote>
 
 __Introdution__
