@@ -24,9 +24,9 @@ __Portfolio projects:__
     
   ![Strava](data/strava.png)
    
-:bicyclist: <blockquote>:bicyclist:Portfolio 1:</blockquote>
+### :bicyclist:Portfolio 1
 
-* Introdution :bicyclist:
+<blockquote> Introdution: </blockquote>
 
 The first dataset is an export of my ride data from [Strava](https://strava.com/), an online social network site for cycling and other sports. This data is a log of every ride since the start of 2018 and contains summary data like the distance and average speed. 
 The second dataset comes from an application called [GoldenCheetah](https://www.goldencheetah.org/) which provides some analytics services over ride data. This has some of the same fields but adds a lot of analysis of the power, speed and heart rate data in each ride. This data overlaps with the Strava data but doesn't include all of the same rides.
